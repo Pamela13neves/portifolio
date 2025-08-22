@@ -1,0 +1,67 @@
+# ================================
+# ARQUIVOS DE VISUAL STUDIO
+# ================================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsidx
+
+# ================================
+# ARQUIVOS DE BUILD E COMPILAÇÃO
+# ================================
+bin/
+obj/
+Debug/
+Release/
+[Bb]uild/
+out/
+
+# ================================
+# SISTEMA OPERACIONAL
+# ================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ================================
+# EDITORES
+# ================================
+# VS Code
+.vscode/
+.history/
+
+# JetBrains (caso use)
+.idea/
+*.iml
+
+# ================================
+# NODE (caso use no futuro)
+# ================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ================================
+# OUTROS
+# ================================
+*.log
+*.cache
+*.tmp
+*.swp
+*.bak
+*.zip
+*.tar.gz
+*.rar

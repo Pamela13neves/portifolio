@@ -1,0 +1,322 @@
+﻿/* GERAL */
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: #fff;
+}
+
+/* MENU FIXO */
+.menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(135deg, #ffe6f0 0%, #fff 100%);
+    backdrop-filter: blur(6px);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    padding: 12px 0;
+    z-index: 1000;
+}
+
+    .menu ul {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+        margin: 0;
+        padding: 0;
+    }
+
+        .menu ul li a {
+            text-decoration: none;
+            font-weight: 600;
+            color: #ff4f87;
+            padding: 6px 12px;
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+
+            .menu ul li a:hover {
+                background: #ff80ab;
+                color: #fff;
+                box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+            }
+
+/* HEADER */
+.cabecalho {
+    height: 100vh; /* ocupa tela inteira */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    padding: 100px 40px 40px; /* espaço pro menu fixo */
+    background: linear-gradient(135deg, #ffe6f0 0%, #fff 100%);
+    text-align: left;
+}
+
+    .cabecalho img {
+        width: 260px;
+        height: 260px;
+        border-radius: 50%;
+        object-fit: cover;
+        box-shadow: 0 0 20px rgba(0,0,0,0.15);
+        border: 5px solid #fff;
+    }
+
+.cabecalho-textos {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.cabecalho h1 {
+    font-size: 3rem;
+    margin: 0;
+    font-weight: 800;
+    background: linear-gradient(90deg, #ff4f87, #ff80ab);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.cabecalho h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 0;
+    color: #555;
+    letter-spacing: 2px;
+}
+
+/* RESPONSIVO */
+@media (max-width: 900px) {
+    .cabecalho {
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+        padding-top: 120px;
+    }
+}
+
+
+.apresentacao {
+    max-width: 1200px;
+    margin: 80px auto;
+    padding: 50px 40px;
+    background: linear-gradient(135deg, #fff 0%, #ffe6f0 100%);
+    font-family: "Segoe UI", Arial, sans-serif;
+    color: #333;
+    line-height: 1.8;
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+
+    .apresentacao h2 {
+        font-size: 2.5rem;
+        font-weight: 700;
+        text-align: center;
+        margin-bottom: 60px;
+        color: #222;
+        position: relative;
+        letter-spacing: 1px;
+    }
+
+        .apresentacao h2::after {
+            content: "";
+            display: block;
+            width: 100px;
+            height: 4px;
+            background: #ff80ab; /* rosa claro */
+            margin: 15px auto 0;
+            border-radius: 4px;
+        }
+
+/* GRID EM DUAS COLUNAS */
+.apresentacao-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px 60px;
+}
+
+/* ESTILO DOS BLOCOS (cada section) */
+.apresentacao section {
+    background: #fff;
+    padding: 25px 20px;
+    border-radius: 14px;
+    border: 1px solid #f8c8dc;
+    box-shadow: 0 4px 12px rgba(255,128,171,0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .apresentacao section:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 18px rgba(255,128,171,0.15);
+    }
+
+.apresentacao h3 {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-bottom: 18px;
+    color: #ff4f87; /* rosa mais forte */
+    border-left: 4px solid #ff80ab;
+    padding-left: 10px;
+}
+
+.apresentacao ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+    .apresentacao ul li {
+        margin-bottom: 10px;
+        position: relative;
+        padding-left: 28px;
+        font-size: 1rem;
+        color: #444;
+    }
+
+        /* marcador estilizado com check */
+        .apresentacao ul li::before {
+            content: "✔";
+            color: #ff80ab;
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+/* textos */
+.apresentacao p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+}
+
+/* RESPONSIVIDADE */
+@media (max-width: 900px) {
+    .apresentacao-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Seção de Projetos */
+.projetos {
+    max-width: 1100px;
+    margin: 60px auto;
+    padding: 30px 20px;
+    text-align: center;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+    .projetos h2 {
+        font-size: 2rem;
+        font-weight: 700;
+        color: #222;
+        margin-bottom: 40px;
+        position: relative;
+    }
+
+        .projetos h2::after {
+            content: "";
+            display: block;
+            width: 80px;
+            height: 3px;
+            background: #ff80ab; /* rosa claro */
+            margin: 12px auto 0;
+            border-radius: 2px;
+        }
+
+/* Grid dos projetos */
+.projetos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 25px;
+}
+
+/* Card do projeto */
+.projeto-card {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    text-decoration: none;
+    color: #333;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+    .projeto-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    }
+
+    .projeto-card img {
+        width: 100%;
+        height: 160px;
+        object-fit: cover;
+        border-bottom: 3px solid #ff80ab; /* linha rosa */
+    }
+
+    .projeto-card h3 {
+        font-size: 1.2rem;
+        font-weight: 600;
+        margin: 15px 0 5px;
+        color: #222;
+    }
+
+    .projeto-card p {
+        font-size: 0.95rem;
+        color: #ff80ab; /* tecnologias em rosa claro */
+        font-weight: 500;
+    }
+
+
+.redes-sociais {
+    max-width: 800px;
+    margin: 60px auto;
+    padding: 0 20px;
+    text-align: center;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+    .redes-sociais h2 {
+        font-size: 1.8rem;
+        font-weight: 600;
+        margin-bottom: 20px;
+        color: #222;
+        position: relative;
+    }
+
+        .redes-sociais h2::after {
+            content: "";
+            display: block;
+            width: 60px;
+            height: 3px;
+            background: #ff80ab; /* rosa claro */
+            margin: 10px auto 0;
+            border-radius: 2px;
+        }
+
+    /* links dos ícones */
+    .redes-sociais a {
+        font-size: 4rem; /* tamanho dos ícones */
+        margin: 0 15px;
+        color: #ff80ab; /* rosa claro */
+        text-decoration: none;
+        transition: transform 0.3s ease, color 0.3s ease;
+    }
+
+        .redes-sociais a:hover {
+            color: #e91e63; /* rosa um pouco mais forte no hover */
+            transform: scale(1.2); /* efeito de leve zoom */
+        }
+
+
+footer {
+    padding: 15px;
+    text-align: center;
+}
