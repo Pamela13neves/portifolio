@@ -1,0 +1,30 @@
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\bin\Debug\net8.0\appsettings.json
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\bin\Debug\net8.0\Página Pessoal.staticwebassets.runtime.json
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\bin\Debug\net8.0\Página Pessoal.staticwebassets.endpoints.json
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\bin\Debug\net8.0\Página Pessoal.exe
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\bin\Debug\net8.0\Página Pessoal.deps.json
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\bin\Debug\net8.0\Página Pessoal.runtimeconfig.json
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\bin\Debug\net8.0\Página Pessoal.dll
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\bin\Debug\net8.0\Página Pessoal.pdb
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\Página Pessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\Página Pessoal.AssemblyInfoInputs.cache
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\Página Pessoal.AssemblyInfo.cs
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\Página Pessoal.csproj.CoreCompileInputs.cache
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\Página Pessoal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\scopedcss\bundle\Página Pessoal.styles.css
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\staticwebassets\msbuild.Página Pessoal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\staticwebassets\msbuild.Página Pessoal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\staticwebassets\msbuild.build.Página Pessoal.props
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Página Pessoal.props
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Página Pessoal.props
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\Página Pessoal.dll
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\refint\Página Pessoal.dll
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\Página Pessoal.pdb
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\Página Pessoal.genruntimeconfig.cache
+C:\Users\pc057\OneDrive\Desktop\Pamela\Estudos\Nova pasta\Página Pessoal\Página Pessoal\obj\Debug\net8.0\ref\Página Pessoal.dll

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pc057\\OneDrive\\Desktop\\Pamela\\Estudos\\Nova pasta\\Página Pessoal\\Página Pessoal\\wwwroot\\Estilo\\style.css",
+      "PackagePath": "staticwebassets\\Estilo\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\pc057\\OneDrive\\Desktop\\Pamela\\Estudos\\Nova pasta\\Página Pessoal\\Página Pessoal\\wwwroot\\imagem\\fundo.jpg",
+      "PackagePath": "staticwebassets\\imagem\\fundo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc057\\OneDrive\\Desktop\\Pamela\\Estudos\\Nova pasta\\Página Pessoal\\Página Pessoal\\wwwroot\\imagem\\perfil.jpg",
+      "PackagePath": "staticwebassets\\imagem\\perfil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc057\\OneDrive\\Desktop\\Pamela\\Estudos\\Nova pasta\\Página Pessoal\\Página Pessoal\\wwwroot\\imagem\\projeto1.jpeg",
+      "PackagePath": "staticwebassets\\imagem\\projeto1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc057\\OneDrive\\Desktop\\Pamela\\Estudos\\Nova pasta\\Página Pessoal\\Página Pessoal\\wwwroot\\imagem\\projeto2.jpeg",
+      "PackagePath": "staticwebassets\\imagem\\projeto2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc057\\OneDrive\\Desktop\\Pamela\\Estudos\\Nova pasta\\Página Pessoal\\Página Pessoal\\wwwroot\\imagem\\projeto3.jpeg",
+      "PackagePath": "staticwebassets\\imagem\\projeto3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc057\\OneDrive\\Desktop\\Pamela\\Estudos\\Nova pasta\\Página Pessoal\\Página Pessoal\\wwwroot\\imagem\\projeto4.jpeg",
+      "PackagePath": "staticwebassets\\imagem\\projeto4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc057\\OneDrive\\Desktop\\Pamela\\Estudos\\Nova pasta\\Página Pessoal\\Página Pessoal\\wwwroot\\imagem\\teste.jpeg",
+      "PackagePath": "staticwebassets\\imagem\\teste.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc057\\OneDrive\\Desktop\\Pamela\\Estudos\\Nova pasta\\Página Pessoal\\Página Pessoal\\wwwroot\\paginas\\index.html",
+      "PackagePath": "staticwebassets\\paginas\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Página Pessoal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Página Pessoal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Página Pessoal.props",
+      "PackagePath": "build\\Página Pessoal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Página Pessoal.props",
+      "PackagePath": "buildMultiTargeting\\Página Pessoal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Página Pessoal.props",
+      "PackagePath": "buildTransitive\\Página Pessoal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

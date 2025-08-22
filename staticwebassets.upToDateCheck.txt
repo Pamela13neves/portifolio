@@ -1,0 +1,9 @@
+wwwroot\Estilo\style.css
+wwwroot\imagem\fundo.jpg
+wwwroot\imagem\perfil.jpg
+wwwroot\imagem\projeto1.jpeg
+wwwroot\imagem\projeto2.jpeg
+wwwroot\imagem\projeto3.jpeg
+wwwroot\imagem\projeto4.jpeg
+wwwroot\imagem\teste.jpeg
+wwwroot\paginas\index.html
